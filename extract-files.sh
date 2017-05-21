@@ -18,7 +18,7 @@
 set -e
 
 # Required!
-export DEVICE=hiaeul
+export DEVICE=hiaeuhl
 export DEVICE_COMMON=hiae-common
 export VENDOR=htc
 
